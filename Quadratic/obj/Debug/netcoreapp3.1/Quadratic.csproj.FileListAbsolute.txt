@@ -1,0 +1,13 @@
+C:\Users\rakit\source\repos\MiscTesting\MiscTesting\bin\Debug\netcoreapp3.1\Quadratic.exe
+C:\Users\rakit\source\repos\MiscTesting\MiscTesting\bin\Debug\netcoreapp3.1\Quadratic.deps.json
+C:\Users\rakit\source\repos\MiscTesting\MiscTesting\bin\Debug\netcoreapp3.1\Quadratic.runtimeconfig.json
+C:\Users\rakit\source\repos\MiscTesting\MiscTesting\bin\Debug\netcoreapp3.1\Quadratic.runtimeconfig.dev.json
+C:\Users\rakit\source\repos\MiscTesting\MiscTesting\bin\Debug\netcoreapp3.1\Quadratic.dll
+C:\Users\rakit\source\repos\MiscTesting\MiscTesting\bin\Debug\netcoreapp3.1\Quadratic.pdb
+C:\Users\rakit\source\repos\MiscTesting\MiscTesting\obj\Debug\netcoreapp3.1\Quadratic.csprojAssemblyReference.cache
+C:\Users\rakit\source\repos\MiscTesting\MiscTesting\obj\Debug\netcoreapp3.1\Quadratic.AssemblyInfoInputs.cache
+C:\Users\rakit\source\repos\MiscTesting\MiscTesting\obj\Debug\netcoreapp3.1\Quadratic.AssemblyInfo.cs
+C:\Users\rakit\source\repos\MiscTesting\MiscTesting\obj\Debug\netcoreapp3.1\Quadratic.csproj.CoreCompileInputs.cache
+C:\Users\rakit\source\repos\MiscTesting\MiscTesting\obj\Debug\netcoreapp3.1\Quadratic.dll
+C:\Users\rakit\source\repos\MiscTesting\MiscTesting\obj\Debug\netcoreapp3.1\Quadratic.pdb
+C:\Users\rakit\source\repos\MiscTesting\MiscTesting\obj\Debug\netcoreapp3.1\Quadratic.genruntimeconfig.cache

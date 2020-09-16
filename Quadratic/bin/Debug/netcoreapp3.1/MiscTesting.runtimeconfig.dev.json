@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\rakit\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\rakit\\.nuget\\packages"
+    ]
+  }
+}

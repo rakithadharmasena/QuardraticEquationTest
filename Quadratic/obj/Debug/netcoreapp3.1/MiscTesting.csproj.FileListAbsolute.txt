@@ -1,0 +1,13 @@
+C:\Users\rakit\source\repos\MiscTesting\MiscTesting\bin\Debug\netcoreapp3.1\MiscTesting.exe
+C:\Users\rakit\source\repos\MiscTesting\MiscTesting\bin\Debug\netcoreapp3.1\MiscTesting.deps.json
+C:\Users\rakit\source\repos\MiscTesting\MiscTesting\bin\Debug\netcoreapp3.1\MiscTesting.runtimeconfig.json
+C:\Users\rakit\source\repos\MiscTesting\MiscTesting\bin\Debug\netcoreapp3.1\MiscTesting.runtimeconfig.dev.json
+C:\Users\rakit\source\repos\MiscTesting\MiscTesting\bin\Debug\netcoreapp3.1\MiscTesting.dll
+C:\Users\rakit\source\repos\MiscTesting\MiscTesting\bin\Debug\netcoreapp3.1\MiscTesting.pdb
+C:\Users\rakit\source\repos\MiscTesting\MiscTesting\obj\Debug\netcoreapp3.1\MiscTesting.csprojAssemblyReference.cache
+C:\Users\rakit\source\repos\MiscTesting\MiscTesting\obj\Debug\netcoreapp3.1\MiscTesting.AssemblyInfoInputs.cache
+C:\Users\rakit\source\repos\MiscTesting\MiscTesting\obj\Debug\netcoreapp3.1\MiscTesting.AssemblyInfo.cs
+C:\Users\rakit\source\repos\MiscTesting\MiscTesting\obj\Debug\netcoreapp3.1\MiscTesting.csproj.CoreCompileInputs.cache
+C:\Users\rakit\source\repos\MiscTesting\MiscTesting\obj\Debug\netcoreapp3.1\MiscTesting.dll
+C:\Users\rakit\source\repos\MiscTesting\MiscTesting\obj\Debug\netcoreapp3.1\MiscTesting.pdb
+C:\Users\rakit\source\repos\MiscTesting\MiscTesting\obj\Debug\netcoreapp3.1\MiscTesting.genruntimeconfig.cache
